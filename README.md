@@ -1,2 +1,2 @@
-# basic-notes
-This repository is for my basics notes app
+# Basic Notes App
+Web application that can be used to store notes in structures manner
